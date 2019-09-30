@@ -1,3 +1,17 @@
 # Description of your program (part 7)
 
+To count the number of words in a document,
+start your count at 1, then for each empty
+space in the file which is followed by another
+word, add +1 to your current count.
+
+
+
 # Reflection on writing your program (part 8)
+
+This description was easy for me to write, but
+I have not tested it on anyone besides in my
+head. But I think it makes sense, and makes
+accomodations for potential fence posting?
+In this course I hope to get patience when dealing
+with programming.
